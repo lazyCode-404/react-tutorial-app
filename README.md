@@ -31,7 +31,7 @@ Clone the project. Go to the project directory and run `npm install` then `npm s
 
 ## Author
 
-👤 **Elisha Tetteyfio**
+👤 **Bwalya Nonde**
 
 - GitHub: [@githubhandle](https://github.com/BwalyaNonde)
 - Twitter: [@twitterhandle](https://twitter.com/nonde_bwalya)
